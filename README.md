@@ -28,8 +28,8 @@ This directory contains the comparative analysis of Indian and US stocks.
 Dataset
 This project uses the following datasets:
 
-Hourly data of BSE India stocks: This dataset is sourced from kite.zerodha.com and contains the volume, open/high/low/close price of stock data.
+**Hourly data of BSE India stocks:** This dataset is sourced from kite.zerodha.com and contains the volume, open/high/low/close price of stock data.
 
-Industry / sector data for BSE India stocks: This data is scraped from the NSE website and contains sector / industry and other meta data of the company.
+**Industry / sector data for BSE India stocks:** This data is scraped from the NSE website and contains sector / industry and other meta data of the company.
 
-Financial data of last 3-5 quarters of BSE India stocks: This data is sourced from the Yahoo Finance API.
+**Financial data of last 3-5 quarters of BSE India stocks:** This data is sourced from the Yahoo Finance API.
