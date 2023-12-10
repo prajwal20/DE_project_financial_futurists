@@ -1,6 +1,6 @@
 # DE Project - Financial Futurists
 
-This repository contains notebooks and data for the Data Engineering project "Financial Futurists". The project focuses on the analysis and prediction of Indian and US stocks.
+This repository contains notebooks and data for the Data Engineering project. The project focuses on the analysis and prediction of Indian and US stocks.
 
 The repository is organized into the following directories:
 
